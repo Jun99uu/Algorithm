@@ -1,5 +1,5 @@
 # 🐍 어쩌면 내가 진짜 블랙맘바…? 🐍
-<a href="https://www.youtube.com/watch?v=lgyTQOv64Uc" target="_blank"><img src="https://user-images.githubusercontent.com/44965706/155647246-2d27751a-0c58-4aac-98d2-92df52fa345b.gif">
+<a href="https://www.youtube.com/watch?v=lgyTQOv64Uc" target:"_blank"><img src="https://user-images.githubusercontent.com/44965706/155647246-2d27751a-0c58-4aac-98d2-92df52fa345b.gif">
 *💃클릭하면 이동합니다💃*</a><br/>
 
 > ## 알고리즘이 약점인 중규리의 역린 극복기(ing~)
