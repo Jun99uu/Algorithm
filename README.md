@@ -1,4 +1,5 @@
 # 🐍 어쩌면 내가 진짜 블랙맘바…? 🐍
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><br/>
 <a href="https://www.youtube.com/watch?v=lgyTQOv64Uc" target="_blank"><img src="https://user-images.githubusercontent.com/44965706/155647246-2d27751a-0c58-4aac-98d2-92df52fa345b.gif">
 *💃클릭하면 이동합니다💃*</a><br/>
 
